@@ -31,7 +31,7 @@ Irregardless of who his father was, Ying Zheng was made crown prince when peculi
 
 Luu Buwei had to maintain his position carefully. Widowed, his former concubine was now coming back unto him, and he feared public scandal. Clever as ever, Luu Buwei heard tell of a man, Lao Ai, infamous for his giant penis. Sima Qian’s Shiji records that Luu Buwei instructed:
 	
-``“Lao Ai to stick his penis through the centre of a wheel made of paulownia wood, [then] had him walk about with it, making certain that the report of this reached the ears of the queen dowager so as to excite her interest.”``\
+``“Lao Ai to stick his penis through the centre of a wheel made of paulownia wood, [then] had him walk about with it, making certain that the report of this reached the ears of the queen dowager so as to excite her interest.”``
 
 She was duly excited. Lao Ai was falsely accused of a crime, had his eyebrows and eyelashes plucked, then had a mock circumcision to give the appearance of a eunuch. Soon Lady Zhao was satiated, and her advances on Luu Buwei halted. She gave Lao Ai the title of Marquis to a fiefdom before bearing two of his children. 
 
