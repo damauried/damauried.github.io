@@ -10,7 +10,7 @@
 locale                   : "en-US"
 site_theme               : "default"
 title                    : "Mark Nichols"
-title_separator          : "|"
+title_separator          : " - "
 name                     : &name "D'AMAURIE GRIFFIN"
 description              : &description "personal description"
 url                      : https://damauried.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
