@@ -6,5 +6,5 @@ redirect_from:
   - /about/
   - /about.html
 --- 
-![Me](ho_chi.gif "Title")
+![Me](images/ho_chi.gif)
 read my essays bitch
