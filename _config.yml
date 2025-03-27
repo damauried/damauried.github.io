@@ -10,7 +10,7 @@
 locale                   : "en-US"
 site_theme               : "default"
 title                    : "Mark Nichols"
-title_separator          : "-"
+title_separator          : "|"
 name                     : &name "D'AMAURIE GRIFFIN"
 description              : &description "personal description"
 url                      : https://damauried.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
@@ -45,7 +45,7 @@ author:
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "damauried"
+  github           : #
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
